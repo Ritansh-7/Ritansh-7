@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ritansh-7
+- 👀 I’m interested in AI and Data Science 
+- 🌱 I’m currently learning Python and Machine Learning
